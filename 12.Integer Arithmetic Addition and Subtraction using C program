@@ -8,5 +8,6 @@ int main()
 	diff=n1-n2;
 	printf("sum of %d and %d is %d\n",n1,n2,sum);
 	printf("difference of %d and %d is %d\n",n1,n2,diff);
+return 0;
 	
 }
